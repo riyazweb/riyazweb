@@ -6,3 +6,4 @@
 -📈 My skills include Python, C, JS, HTML, and CSS 📊
 -📫 You can reach me via email at mdriyazweb@gmail.com 📧
 
+
