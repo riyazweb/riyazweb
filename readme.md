@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? I am Riyaz</h1>
 
 ###
 
@@ -6,6 +6,6 @@
 
 ###
 
-<p align="center">-👋 Greetings! I'm Riyaz 🙋‍♂️<br><br>-👨‍💻 I am skilled in Python, HTML, CSS, JS, UI/UX 💻<br><br>-🤔 Currently, I am interested in AI, Open Source, Machine Learning and App Development 🤖📱<br><br>-🌱 Learning Java, Kotlin, Swift, C, C++ to improve my skills 💪<br><br>-💞️ I am eager to collaborate on beginner-level open source projects/issues 🤝<br><br>-📈 My skills include Python, C, JS, HTML, and CSS 📊<br><br>-📫 You can reach me via email at mdriyazweb@gmail.com 📧</p>
+<p align="left">-👋 Greetings! I'm Riyaz 🙋‍♂️<br><br>-👨‍💻 I am skilled in Python, HTML, CSS, JS, UI/UX 💻<br><br>-🤔 Currently, I am interested in AI, Open Source, Machine Learning and App Development 🤖📱<br><br>-🌱 Learning Java, Kotlin, Swift, C, C++ to improve my skills 💪<br><br>-💞️ I am eager to collaborate on beginner-level open source projects/issues 🤝<br><br>-📈 My skills include Python, C, JS, HTML, and CSS 📊<br><br>-📫 You can reach me via email at mdriyazweb@gmail.com 📧</p>
 
 ###
