@@ -2,7 +2,7 @@
 
 -👨‍💻 I am skilled in Python, HTML, CSS, JS, UI/UX 💻
 
--🤔 Currently, I am interested in Open Source, Machine Learning and App Development 🤖📱
+-🤔 Currently, I am interested in AI, Open Source, Machine Learning and App Development 🤖📱
 
 -🌱 Learning Java, Kotlin, Swift, C, C++ to improve my skills 💪
 
