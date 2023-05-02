@@ -12,5 +12,5 @@
 
 -📫 You can reach me via email at mdriyazweb@gmail.com 📧
 
-![out (5)](https://user-images.githubusercontent.com/116792240/235643698-bd3dae35-e212-4221-9690-83724692f9c9.png)
+![out (4) (Small)](https://user-images.githubusercontent.com/116792240/235643892-efc86cdc-6815-4e1d-a9d0-b756d66f0ba4.png)
 
