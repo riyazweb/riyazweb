@@ -9,4 +9,4 @@
 <p align="left">-👋 Greetings! I'm Riyaz 🙋‍♂️<br><br>-👨‍💻 I am skilled in Python, HTML, CSS, JS, UI/UX 💻<br><br>-🤔 Currently, I am interested in AI, Open Source, Machine Learning and App Development <br><br>-🌱 Learning Java, Kotlin, Swift, C, C++ to improve my skills 💪<br><br>-💞️ I am eager to collaborate on beginner-level open source projects/issues 🤝<br><br>-📫 You can reach me via email at mdriyazweb@gmail.com 📧</p>
 
 ###
-![visitors]([https://visitor-badge.laobi.icu/badge?page_id=page.id](https://visitor-badge.laobi.icu/badge?page_id=riyazweb.visitor-badge))
+![visitors]([https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge))
