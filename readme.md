@@ -1,4 +1,5 @@
- <img width="3328" height="1280" alt="Gemini_Generated_Image_l6cre2l6cre2l6cr" src="https://github.com/user-attachments/assets/a3d86fa5-c2ca-4160-8715-f93bde3e351f" />
+
+<img width="1024" height="335" alt="image" src="https://github.com/user-attachments/assets/ba9b1d35-da82-4d43-9c5c-6ddaf52c5af5" />
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
