@@ -1,3 +1,6 @@
+
+<img width="1024" height="339" alt="unnamed-Photoroom" src="https://github.com/user-attachments/assets/e1670905-fa2f-4609-bd16-334691b04a89" />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
