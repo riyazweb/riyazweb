@@ -1,5 +1,4 @@
-
-<img width="1024" height="339" alt="unnamed-Photoroom" src="https://github.com/user-attachments/assets/e1670905-fa2f-4609-bd16-334691b04a89" />
+ <img width="1280" height="419" alt="Gemini_Generated_Image_wg6p6swg6p6swg6p-Photoroom" src="https://github.com/user-attachments/assets/abf6e7b1-11a1-4aeb-a496-fd8452bcaa51" />
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
