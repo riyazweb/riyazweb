@@ -2,6 +2,7 @@
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
+<img width="1024" height="501" alt="image" src="https://github.com/user-attachments/assets/f576c8e1-3b34-489f-acd9-0d5278ac2789" />
 
 ###
 
